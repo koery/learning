@@ -3,8 +3,6 @@ learning plan
 
 视频
 
-linux 基本操作 shell编程
-
 swoole src
 swoole framework
 
@@ -15,6 +13,8 @@ nginx
 mysql 
 
 memcache memcached redis
+
+memcached 源码  分布式算法的实现
 
 算法
 
